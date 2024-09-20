@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi, I'm Prince Louie Paquiado</h1>
-<h3 align="center">A passionate backend developer from Philippines</h3>
+<h3 align="center">A passionate full stack developer from Philippines</h3>https://github.com/blckcode/blckcode/blob/main/README.md
 <img align="right" alt="Coding" width="400" src="https://giffiles.alphacoders.com/215/215911.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=blckcode&label=Profile%20views&color=0e75b6&style=flat" alt="blckcode" /> </p>
