@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=blckcode&label=Profile%20views&color=0e75b6&style=flat" alt="blckcode" /> </p>
 
-- 🔭 I’m currently working on **Ticketing Management System**
+- 🔭 I’m currently working on **UPA: Urban Property Rental**
 
-- 🌱 I’m currently learning **Laravel and React**
+- 🌱 I’m currently learning **Expo and Nativewind**
 
 - 📫 How to reach me **20210713m.princepaquiado.bscs@gmail.com**
 
